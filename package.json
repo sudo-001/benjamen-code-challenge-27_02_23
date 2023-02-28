@@ -1,0 +1,12 @@
+{
+  "name": "27_02_23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./sass/main.scss:./public/css/style2.css"
+  },
+  "author": "Atezong ymele carick (sudo)",
+  "license": "ISC"
+}

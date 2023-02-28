@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'kanit';
+    src: url('../fonts/kanit-bold.woff2') format('woff2');
+    src: url('../fonts/kanit-bold.woff') format('woff');
+}
+
+* {
+    font-family: 'kanit';
+}
+
+// Utils
+@import "./Utils/variables";
+@import "./Utils/animation";
+
+// Vendors
+
+// Base
+@import "./Base/base";
+
+// Components
+@import "./Components/nav";
+
+// Layout
+
+// Pages
+@import "./Pages/home";
+
+// Themes

@@ -1,0 +1,10 @@
+body {
+  height: 100vh;
+  background-color: "#000";
+  box-sizing: "border-box";
+}
+body nav {
+  background-color: "red";
+}
+
+/*# sourceMappingURL=style.css.map */
